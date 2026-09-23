@@ -1,0 +1,5 @@
+LabelImg、CVAT、VIA( VGG Image Annotator)
+基于文物的多模态特征（如纹理、形状、色彩）
+跨学科协作团队
+加密晕存储和区块链技术
+增强现实（AR）和虚拟现实（VR）
